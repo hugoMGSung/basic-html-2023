@@ -52,7 +52,7 @@ Java 개발자 과정 프론트엔드 리포지토리
 
 6일차 Bootstrap 앨범 클로닝
 
-<img src="https://raw.githubusercontent.com/hugoMGSung/basic-html-2023/main/image/album_theme.png" width="700">
+<img src="https://raw.githubusercontent.com/hugoMGSung/basic-html-2023/main/image/album_theme.gif" width="700">
 
 
 ## 7일차
